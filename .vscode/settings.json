@@ -16,6 +16,7 @@
         "filesystem": "cpp",
         "ios": "cpp",
         "system_error": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "ostream": "cpp"
     }
 }
